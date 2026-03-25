@@ -289,7 +289,7 @@ $translate = [
         'Por favor ingrese un número móvil' => 'Vă rugăm să introduceți un număr de mobil',
         'Please, try again' => 'Vă rugăm, încercați din nou',
     ],
-    'cz' => [
+    'cs' => [
         'Cambia tu vida hoy' => 'Změnit svůj život ještě dnes',
         'Cargando' => 'Načítá se',
         'El nombre es obligatorio' => 'Jméno je povinné',

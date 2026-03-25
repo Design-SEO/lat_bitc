@@ -3165,7 +3165,7 @@ return [
         'privacy_content' => '<!-- سياسة الخصوصية الكاملة هنا -->',
     ],
 
-    'my_en' => [
+    'my' => [
         'logo_alt' => 'FundXlat Logo',
         'menu_alt' => 'Open Menu',
         'cotacao' => 'Current Rate',
@@ -4073,7 +4073,7 @@ return [
     </div>',
     ],
 
-    'ph_en' => [
+    'ph' => [
         'logo_alt' => 'FundXlat Logo',
         'menu_alt' => 'Open Menu',
         'cotacao' => 'Current Rate',
